@@ -18,7 +18,7 @@ function App() {
       <main>
         <div className="">
           <img className='h-full' src={image} alt="" />
-          <h1 className='text-white text-7xl w-[30rem] ml-28	'>YOUR OWN WORLD IN ONE SINGLE PAGE</h1>
+          <h1 className='text-black text-7xl w-[30rem] ml-28	'>YOUR OWN WORLD IN ONE SINGLE PAGE</h1>
           <button className='p-1 m-1 bg-[#964B00] text-white rounded-lg ml-28 mt-5'>Contact US</button>
         </div>
 
